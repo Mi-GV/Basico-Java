@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0814088d-0f9a-466d-bc5f-9d90cbdbfc11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basico-Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InformacoesEscola/Cor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InformacoesEscola/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InformacoesEscola/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InformacoesEscola/Sexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lanchonete/area/cliente/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lanchonete/atendimento/Atendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lanchonete/atendimento/Estabelecimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lanchonete/atendimento/cozinha/Almoxarife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lanchonete/atendimento/cozinha/Cozinheiro.java" afterDir="false" />
-    </list>
+    <list default="true" id="0814088d-0f9a-466d-bc5f-9d90cbdbfc11" name="Changes" comment="Novos Projetos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +61,29 @@
       <option name="presentableId" value="Default" />
       <updated>1682373350487</updated>
     </task>
+    <task id="LOCAL-00001" summary="Novos Projetos">
+      <created>1682465257392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682465257392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Novos Projetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novos Projetos" />
   </component>
 </project>
